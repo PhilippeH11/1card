@@ -2,7 +2,7 @@
 Javascript, CSS, HTML5*/
 
 var cards = [
-  "/images/card1.jpg",
+  "./images/card1.jpg",
   "/images/card2.jpg",
   "/images/card3.jpg",
   "/images/card4.jpg",
