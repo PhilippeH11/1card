@@ -3,11 +3,11 @@ Javascript, CSS, HTML5*/
 
 var cards = [
   "./images/card1.jpg",
-  "/images/card2.jpg",
-  "/images/card3.jpg",
-  "/images/card4.jpg",
-  "/images/card5.jpg",
-  "/images/card6.jpg",
+  "./images/card2.jpg",
+  "./images/card3.jpg",
+  "./images/card4.jpg",
+  "./images/card5.jpg",
+  "./images/card6.jpg",
   "/images/card7.jpg",
   "/images/card8.jpg",
   "/images/card9.jpg",
